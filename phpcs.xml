@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ruleset name="WordPress Plugin Coding Standards">
+
+    <description>WordPress Plugin PHP_CodeSniffer ruleset.</description>
+
+    <!-- Exclude paths -->
+    <exclude-pattern>*/node_modules/*</exclude-pattern>
+    <exclude-pattern>*/vendor/*</exclude-pattern>
+    <exclude-pattern>bin/*</exclude-pattern>
+
+    <!-- Configs -->
+    <config name="minimum_supported_wp_version" value="4.7" />
+    <config name="testVersion" value="7.0-"/>
+
+    <arg name="basepath" value="."/>
+
+    <!-- Rules -->
+    <rule ref="WordPress" />
+
+    <rule ref="PHPCompatibilityWP" />
+
+</ruleset>
