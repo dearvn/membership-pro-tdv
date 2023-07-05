@@ -4,28 +4,6 @@
 
 **If you like this plugin please support me a coffee via paypal clickclone@gmail.com or need implement a plugin contact donald.nguyen.it@gmail.com**
 
-## Wordpress Coding Standards - Check and Fix issues before deploy on wordpress.org
-
-**Install package to check Wordpress standard:**
-
-```sh
-composer install
-```
-
-**Get all errors of the project:**
-
-```sh
-vendor/bin/phpcs --standard=WordPress .
-```
-
-**Fix all errors of the project:**
-
-```sh
-vendor/bin/phpcbf --standard=WordPress .
-```
-
-or fix manually
-
 ## Features
 **Add username to TradingView.**
 **Remove username from TradingView in cases:**
