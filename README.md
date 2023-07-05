@@ -1,7 +1,7 @@
 # WordPress Plugin Membership Pro Tdv 
 * This plugin is an extend of Membership Pro Pro to add/remove automatically username of TradingView.
 
-**If you like this plugin please support me a coffee (https://www.patreon.com/donaldit) or need implement a plugin contact donald.nguyen.it@gmail.com**
+**If you like this plugin please support me a coffee via paypal clickclone@gmail.com or need implement a plugin contact donald.nguyen.it@gmail.com**
 
 ## Wordpress Coding Standards - Check and Fix issues before deploy on wordpress.org
 
