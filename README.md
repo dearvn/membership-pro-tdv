@@ -35,32 +35,8 @@ or fix manually
 
 ## Installation
 
-* Step 1: Get Membership Pro Pro from https://codecanyon.net/item/ultimate-membership-pro-wordpress-plugin/12159253. Install and active both Membership Pro Pro and this plugin.
-
-* Step 2: Login TradingView and get sessionid and get token from console.
-
-![Alt text](https://github.com/dearvn/membership-pro-tdv/raw/main/sessionid.png?raw=true "Token")
-
-
- then input it in setting and save.
-
-![Alt text](https://github.com/dearvn/membership-pro-tdv/raw/main/setting_token.png?raw=true "Setting")
-
-
-* Step 3: Add a field with name `tradingview_username` in register page follow this guide: https://help.wpindeed.com/ultimate-membership-pro/knowledge-base/add-custom-fields/
-
-
-![Alt text](https://github.com/dearvn/membership-pro-tdv/raw/main/custom_field.png?raw=true "Custom field")
-
-* Step 4: Edit a plan and choose Chart Id to assign
-
-![Alt text](https://github.com/dearvn/membership-pro-tdv/raw/main/plan.png?raw=true "Plan")
-
-* Step 5: In register page, the user will input username of TradingView
-
-![Alt text](https://github.com/dearvn/membership-pro-tdv/raw/main/register.png?raw=true "Register")
-
-
+* Follow the steps in [Setup-Guideline.pdf](https://github.com/dearvn/membership-pro-tdv/blob/main/Setup-Guideline.pdf) to setup this plugin.
+  
 ## License
 
 The WordPress Plugin Membership Pro Tdv is licensed under the GPL v2 or later.
