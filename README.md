@@ -1,4 +1,5 @@
 # WordPress Plugin Membership Pro Tdv 
+* Manage your TradingView subscriptions effortlessly with this powerful plugin for WordPress. This plugin automates the subscription process and ensures a secure and reliable connection with TradingView. You can focus on your trading strategies while this plugin takes care of the rest.
 * This plugin is an extend of Membership Pro Pro to add/remove automatically username of TradingView.
 
 **If you like this plugin please support me a coffee via paypal clickclone@gmail.com or need implement a plugin contact donald.nguyen.it@gmail.com**
